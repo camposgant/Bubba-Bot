@@ -1,0 +1,11 @@
+{
+  "name": "Bubba",
+  "version": "1.0.0",
+  "description": "Summon Bubba to give you the happy praise.",
+  "main": "bot.js",
+  "author": "Gabriel",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^2.4.4"
+  }
+}
